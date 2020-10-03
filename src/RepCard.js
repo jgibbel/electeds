@@ -13,7 +13,7 @@ const RepCard = ({obj}) => {
             {obj.title ? 
             <p>{obj.region} {obj.title}</p>
             : null }
-
+ 
             {obj.loser ? 
             <>
             <p>Current:</p>
