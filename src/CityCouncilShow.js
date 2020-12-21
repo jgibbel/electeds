@@ -23,7 +23,7 @@ export default class CityCouncilShow extends Component {
         })
 
 
-        fetch(`https://www.repping.nyc/CouncilD${id}Candidates.json`,{
+        fetch(`https://repping.nyc/CouncilD${id}Candidates.json`,{
             headers : { 
               'Content-Type': 'application/json',
               'Accept': 'application/json'
@@ -45,7 +45,7 @@ export default class CityCouncilShow extends Component {
                 district: this.props.match.params.id
                 
             })
-            fetch(`https://www.repping.nyc/CouncilD${this.props.match.params.id}Candidates.json`,{
+            fetch(`https://repping.nyc/CouncilD${this.props.match.params.id}Candidates.json`,{
                 headers : { 
                   'Content-Type': 'application/json',
                   'Accept': 'application/json'
