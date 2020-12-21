@@ -23,7 +23,7 @@ export default class CityCouncilShow extends Component {
         })
 
 
-        fetch(`http://www.repping.nyc/CouncilD${id}Candidates.json`)
+        fetch(`https://www.repping.nyc/CouncilD${id}Candidates.json`)
         .then(r => r.json())
         .then((data) => {
             this.setState({districtJSON: data.candidates})
@@ -40,7 +40,7 @@ export default class CityCouncilShow extends Component {
                 district: this.props.match.params.id
                 
             })
-            fetch(`http://www.repping.nyc/CouncilD${this.props.match.params.id}Candidates.json`)
+            fetch(`https://www.repping.nyc/CouncilD${this.props.match.params.id}Candidates.json`)
             .then(r => r.json())
             .then((data) => {
                 this.setState({districtJSON: data.candidates})
