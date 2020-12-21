@@ -1,0 +1,166 @@
+{"district": "1",
+"candidates": [
+    {
+        "name": "Christopher Marte",
+        "email": null,
+        "phone": null,
+            "website": "https://www.votemarte.com/",
+            "photo": "https://pbs.twimg.com/profile_images/1218013696955424770/2UgUkbMK_400x400.jpg",
+            "twitter": "https://twitter.com/chrisMarteNYC",
+            "instagram": "https://www.instagram.com/chrismartenyc/",
+
+        "overview": "",
+        "questions": 
+        [],
+        "endorsements": 
+        [{"text": "Chinatown Working Group", "link": null}, {"text": "Art Against Displacement", "link": null},{"text": "Grand Street Democrats", "link": null},{"text": "Village Independent Democrats", "link": null},{"text": "Downtown Independent Democrats", "link": null},{"text": "Run for Something", "link": null}],
+        "links": []
+
+ 
+    },
+    {
+        "name": "Maud Maron",
+        "email": null,
+        "phone": null,
+            "website": "https://maudmaron.nyc/",
+            "photo": "https://pbs.twimg.com/profile_images/1336683282893770753/T6Xbsqcp_400x400.jpg",
+            "twitter": "https://twitter.com/MaudMaron",
+            "instagram": "https://www.instagram.com/maudmaronnyc/",
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [],
+        
+        "links": [{"text": "History of racist remarks and behavior", "link": "https://www.nydailynews.com/new-york/education/ny-petition-resignation-cec-district-2-20190731-fxxeqarhlfecfm3h7x223ddegq-story.html"}]
+    },
+    {
+        "name": "Gigi Li",
+        "email": "gigiliforny@gmail.com",
+        "phone": null,
+            "website": "https://www.gigili.nyc/",
+            "photo": "https://pbs.twimg.com/profile_images/771016694760374272/hstJx_68_400x400.jpg",
+            "twitter": "https://twitter.com/gigi_k_li",
+            "instagram": "https://www.instagram.com/gigifornyc/",
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [{"text": "21 in '21", "link": null}],
+        
+        "links": []
+    },
+    {
+        "name": "Jenny Low",
+        "email": "contact@jennylow.nyc",
+        "phone": null,
+            "website": "https://www.jennylow.nyc/",
+            "photo": "https://pbs.twimg.com/profile_images/1314937803172708354/GcGUR130_400x400.jpg",
+            "twitter": "https://twitter.com/jennylamlow",
+            "instagram": null,
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [{"text": "Rep. Nydia Velázquez", "link": null}, {"text": "Rep. Carolyn Maloney", "link": null}, {"text": "State Sen. John Liu", "link": null}],
+        
+        "links": []
+    },
+    {
+        "name": "Denny Salas",
+        "email": null,
+        "phone": null,
+            "website": "https://www.dennysalas.com/",
+            "photo": "https://pbs.twimg.com/profile_images/1287064214729822209/kMwFtAxl_400x400.jpg",
+            "twitter": "https://twitter.com/realdennysalas",
+            "instagram": "https://www.instagram.com/realdennysalas/",
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [{"text": "Former Rep. Mike Capuano (MA-07)", "link": null}],
+        
+        "links": []
+    },
+    {
+        "name": "Dennis Mihalsky",
+        "email": null,
+        "phone": null,
+            "website": "https://www.dennisfordowntown.com/",
+            "photo": "https://pbs.twimg.com/profile_images/1336738920172806145/VsDGFt-O_400x400.jpg",
+            "twitter": "https://twitter.com/DennisMihalsky",
+            "instagram": "https://www.instagram.com/dennismihalsky/",
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [],
+        
+        "links": []
+    },
+    {
+        "name": "Tiffany Winbush",
+        "email": null,
+        "phone": null,
+            "website": "https://www.tiffanyfornyc.com/",
+            "photo": "https://pbs.twimg.com/profile_images/1305852337492234242/j7tUHEJU_400x400.jpg",
+            "twitter": "https://twitter.com/tiff4nyc1",
+            "instagram": "https://www.instagram.com/tiff4nyc/",
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [],
+        
+        "links": []
+    },
+    {
+        "name": "Susan Lee",
+        "email": null,
+        "phone": null,
+            "website": "https://www.susanleenyc.com/index.html",
+            "photo": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+            "twitter": null,
+            "instagram": null,
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [],
+        
+        "links": []
+    },
+    {
+        "name": "Jacqueline Gross",
+        "email": null,
+        "phone": null,
+            "website": null,
+            "photo": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+            "twitter": null,
+            "instagram": null,
+    
+        "overview": null,
+        "questions": 
+        [],
+    
+        "endorsements": 
+        [],
+        
+        "links": []
+    }
+]
+}
