@@ -13,7 +13,7 @@ class AllReps extends Component {
 
 
     componentDidMount = () => {
-        fetch('council.json')
+        fetch(`council.json`)
         .then(r => r.json())
         .then((data) => {
             this.setState({councilData: data.electeds})
@@ -49,19 +49,21 @@ class AllReps extends Component {
         const { senateData, fedSenateData, councilData, assemblyData, houseData, execData } = this.state;
         return (
             <div>
-                <p onClick={() => this.handleClick("executive")}>Executives</p>
+                 <h2>This information is currently out of date as of the November 2020 election (12/21/2020) -jg</h2>
+          
+                <p onClick={() => this.handleClick("executive")} className="nav">Executives</p>
                 
 
-                <p onClick={() => this.handleClick("federal")}>Federal</p>
+                <p onClick={() => this.handleClick("federal")} className="nav">Federal</p>
                
 
-                <p onClick={() => this.handleClick("senate")}>State Senate</p>
+                <p onClick={() => this.handleClick("senate")} className="nav">State Senate</p>
                 
 
-                <p onClick={() => this.handleClick("assembly")}>Assembly</p>
+                <p onClick={() => this.handleClick("assembly")} className="nav">Assembly</p>
                 
 
-                <p onClick={() => this.handleClick("council")}>Council</p>
+                <p onClick={() => this.handleClick("council")} className="nav">Council</p>
                 {this.state.body === "executive" ? 
                 <>{execData.map((obj) => <RepCard obj={obj} />)}</>
                 : null}

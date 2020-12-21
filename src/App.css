@@ -7,3 +7,56 @@
   text-align: right;
   margin-right: 20px;
 }
+
+.ccardphoto {
+    height: 150px;
+    padding: 0 25px;
+}
+
+.ccardflex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.littleClickerButton {
+  text-decoration: none;
+  color: black;
+}
+
+.littleClickerButton:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.clickerBox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap
+}
+
+.nav {
+  font: 16px;
+  color: #4CAF50;
+  text-decoration: underline;
+  margin: 5px 10px;
+  width: auto;
+  display: block;
+}
+
+.textlink {
+  color: #4CAF50;
+}
+.textLink:hover {
+color: red
+}
+.textLink:visited {
+  color: #4CAF50
+  }
+
+.nav:hover {
+  color: black;
+}
+
+.nav:active {
+  color: red
+}

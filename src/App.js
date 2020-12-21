@@ -8,6 +8,9 @@ import Resources from './Resources';
 import Documents from './Documents.js';
 import UrReps from './UrReps.js';
 import AllReps from './AllReps';
+import CityCouncilShow from './CityCouncilShow';
+
+import HeaderApp from "./components/HeaderApp"
 
 import {
   BrowserRouter as Router,
@@ -15,35 +18,30 @@ import {
   Route,
   NavLink,
   Link
-} from "react-router-dom";
+} from 'react-router-dom';
 
 function App() {
   return (
     <Router>
-      <Link  to="/support"><p className="right">support the work</p></Link>
-
     <div className="App">     
-    {/* <svg width="960" height="600"> <CongressionalDistricts width={960} height={600} />
-    </svg> */}
-          <Route exact path="/support"><p>email reppingnyc@gmail.com for inquiries, to join the team, or throw some dough. ty, peace n love.</p></Route>
-    <br></br>   
-     <Link className="" to="/about">about</Link>
-     <Route exact path="/about"><p>This weblog is intended to provide young people access to information concerning elected civil servants in New York City.</p></Route>
-     
-<br></br>
-     <Link className="" to="/resources">resources</Link>
+   
+    <HeaderApp>REPPINGNYC</HeaderApp>
+    
+    <Link className="nav" to="/about">about</Link>
+    <Route exact path="/about"><p>This weblog is intended to provide young people access to information concerning elected civil servants in New York City.</p></Route>
+    
+
+     <Link className="nav" to="/resources">resources</Link>
      <Route exact path="/resources"><Resources /></Route>
-<br></br>
-     <Link className="" to="/documents">documents</Link>
-     <Route exact path="/documents"><Documents /></Route>
-     <br></br>
-     <Link className="" to="/urReps">find your representation</Link>
-     <br></br>
-     <Link className="" to="/allReps">all electeds by body</Link>
+    
+     <Link className="nav" to="/cc/1">City Council Candidates 2021</Link>
+     <Link className="nav" to="/urReps">find your representation</Link>
+     <Link className="nav" to="/allReps">all electeds by body</Link>
+     
      <Route exact path="/urReps"><UrReps /></Route>
      <Route exact path="/allReps"><AllReps /></Route>
      <Route exact path="/about"><Contribute /></Route>
-     
+     <Route path="/cc/:id" component={CityCouncilShow}/>
     </div>
     </Router>
   );

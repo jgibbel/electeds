@@ -101,6 +101,11 @@ class UrReps extends Component {
     
         return (
           <>
+            <br/>
+<a title="Find Your Elected Officials at mygovnyc.org" href="https://www.mygovnyc.org/" target="_blank" rel="noopener noreferrer"><img src="http://www.mygovnyc.org/img/WRMbutton184px.gif" /></a>
+          <br/><span>Link to: A service of the Graduate Center, City University of New York by the Center for Urban Research in partnership with the League of Women Voters of the City of New York.</span>
+          <h2>This information is currently out of date as of the November 2020 election (12/21/2020) -jg</h2>
+          
           <p>Borough---
             <select onChange={this.handleBoro} value={boro}>
               
