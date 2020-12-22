@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import CandidateCard from './CandidateCard';
+import './App.css';
 
 import { Link } from 'react-router-dom';
 
