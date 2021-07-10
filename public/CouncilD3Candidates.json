@@ -1,0 +1,112 @@
+{"district": "3",
+    "candidates": [
+        {
+            "name": "Erik Bottcher",
+            "email": null,
+            "phone": null,
+                "website": "https://www.erikbottcher.com/",
+                "photo": "https://pbs.twimg.com/profile_images/1339078738030497792/xXC-Cx6t_400x400.jpg",
+                "twitter": "https://twitter.com/ebottcher",
+                "instagram": "https://www.instagram.com/ebottcher/",
+    
+            "overview": null,
+            "questions": 
+            [],
+            "endorsements": 
+            [{"text": "United Federation of Teachers", "link": null}, {"text": "LGBTQ Victory Fund", "link": null}, {"text": "TenantsPAC", "link": null}, {"text": "Village Independent Democrats", "link": null}, {"text": "Downtown Independent Democrats", "link": null}],
+            "links": []
+    
+     
+        },
+        {
+            "name": "Arthur Schwartz",
+            "email": null,
+            "phone": null,
+                "website": "https://www.arthurfornyc.com/",
+                "photo": "https://pbs.twimg.com/profile_images/1713858844/OWS_-_In_court_400x400.jpg",
+                "twitter": "https://twitter.com/advocat4justice",
+                "instagram": "https://www.instagram.com/advocat4justice/",
+    
+            "overview": null,
+            "questions": 
+            [],
+            "endorsements": 
+            [{"text": "TWU Local 100", "link": null}, {"text": "Black Lives Matter of Greater NY", "link": null}],
+            "links": []
+    
+     
+        },
+        {
+            "name": "Marni Halasa",
+            "email": null,
+            "phone": null,
+                "website": "https://marniforcitycouncil.com/",
+                "photo": "https://pbs.twimg.com/profile_images/903368176276316160/CBftFzDq_400x400.jpg",
+                "twitter": "https://twitter.com/Marni4Council",
+                "instagram": null,
+    
+            "overview": null,
+            "questions": 
+            [],
+            "endorsements": 
+            [],
+            "links": []
+    
+     
+        },
+        {
+            "name": "Phelan-Dante Fitzpatrick",
+            "email": null,
+            "phone": null,
+                "website": "https://phelanforcitycouncil.com/",
+                "photo": "https://pbs.twimg.com/profile_images/1331042171416358912/wqR516Y2_400x400.jpg",
+                "twitter": "https://twitter.com/phelandante",
+                "instagram": null,
+    
+            "overview": null,
+            "questions": 
+            [],
+            "endorsements": 
+            [],
+            "links": []
+    
+     
+        },
+        {
+            "name": "Leslie Boghosian Murphy",
+            "email": null,
+            "phone": null,
+                "website": "https://www.lesliefornyc.com/",
+                "photo": "https://pbs.twimg.com/profile_images/1293261907017773056/-AqMfvYy_400x400.jpg",
+                "twitter": "https://twitter.com/LeslieBMurphy",
+                "instagram": "https://www.instagram.com/lkbmurphy/",
+    
+            "overview": null,
+            "questions": 
+            [],
+            "endorsements": 
+            [],
+            "links": []
+    
+     
+        },
+        {
+            "name": "Aleta LaFargue",
+            "email": null,
+            "phone": null,
+                "website": "https://aletalafargue.com/",
+                "photo": "https://pbs.twimg.com/profile_images/1316167645935394818/uuZ6OuF__400x400.jpg",
+                "twitter": "https://twitter.com/aletafor3",
+                "instagram": "https://www.instagram.com/aleta_lafargue/",
+    
+            "overview": null,
+            "questions": 
+            [],
+            "endorsements": 
+            [],
+            "links": []
+    
+     
+        }
+    ]
+}

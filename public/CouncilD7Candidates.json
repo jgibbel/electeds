@@ -1,0 +1,362 @@
+{"district": "7",
+    "candidates": [
+        {
+    "name": "Marti Cummings",
+    "email": null,
+    "phone": null,
+        "website": "https://www.martiformanhattan.com/",
+        "photo": "https://pbs.twimg.com/profile_images/1316652254003421184/UDI_IF9Z_400x400.jpg",
+        "twitter": "https://twitter.com/MartiGCummings",
+        "instagram": "https://www.instagram.com/martigcummings/",
+
+    "overview": null,
+    "questions": 
+    [
+        {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+    ],
+    "endorsements": 
+    [{"text": "LGBTQ Victory Fund", "link": null},
+     {"text": "Rise Uptown", "link": null},
+     {"text": "Run for Something", "link": null},
+     {"text": "CM Daniel Dromm", "link": null},
+     {"text": "CM Jimmy Van Bramer", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "Shaun Abreu",
+    "email": null,
+    "phone": null,
+        "website": "http://shaunfornewyork.com",
+        "photo": "https://pbs.twimg.com/profile_images/1310021640248590338/9_LkzvJz_400x400.jpg",
+        "twitter": "https://twitter.com/shaunabreu",
+        "instagram": null,
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "Open New York", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "Daniel Cohen",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+},
+
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+        "website": "",
+        "photo": "",
+        "twitter": "",
+        "instagram": "",
+
+    "overview": null,
+    "questions": 
+    [
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]},
+    {"q": "", "a": "", "links": 
+        [{"link": null, "text": "Link here"}
+    ]}
+
+    ],
+    "endorsements": 
+    [{"text": "", "link": null},
+     {"text": "", "link": null}
+    ],
+    
+    "links": []
+}
+
+
+    ]
+}
